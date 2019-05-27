@@ -7,4 +7,7 @@ main(List<String> args) {
   };
 
   print(usuario);
+
+  print(usuario['nome']);
+  print(usuario['idade']);
 }
